@@ -5,37 +5,60 @@
 
 ## 👨💻 About Me
 
-- 🔭 Currently exploring the realms of **Web Development** and **Devops**
-- 🌱 Learning **Full-Stack Development** (MERN stack enthusiast)
-- 🛠️ Tech Toolkit: `Java` `JavaScript` `Python` `C` `HTML/CSS`
-- ❤️ Passionate about building smart solutions and beautiful interfaces
-- 🎯 2023 Goal: Contribute to open source projects
+- 💻 Full-Stack Developer specializing in **Next.js** and cross-platform mobile apps with **React Native**
+- 🚀 Building performant web applications with modern architectures
+- 📱 Passionate about creating seamless mobile experiences
+- 🌱 Currently exploring **AI integration in web applications**
+- 🛠️ Tech Toolkit: `Next.js` `React Native` `TypeScript` `Node.js` `Python` `Java`
+- 🎯 2024 Goal: Ship 3 production-ready applications
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Core Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## 🚀 Current Projects
+### Supporting Technologies
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-1. **Web Dev Playground** - Collection of mini-projects exploring modern web technologies
-2. **AI Experiments** - Machine learning models implementation from scratch
-3. **Code Snippets Hub** - Curated collection of useful code patterns and solutions
+## 🚀 Featured Projects
+
+1. **Next.js E-Commerce Platform**  
+   Full-stack shopping platform with Server-Side Rendering and payment integration
+
+2. **React Native Fitness Tracker**  
+   Cross-platform mobile app with real-time workout tracking and social features
+
+3. **AI-Powered Blog Generator**  
+   Next.js application integrated with GPT-3 for content creation
 
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eklavya172004&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya172004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya172004&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔧 Skills Breakdown
+
+**Frontend Mastery**  
+◉ Next.js App Router | ◉ React Hooks | ◉ Redux Toolkit | ◉ Tailwind CSS  
+◉ Responsive Design | ◉ Web Performance Optimization
+
+**Mobile Development**  
+◉ React Native CLI | ◉ Expo | ◉ Native Modules | ◉ Mobile Animations
+
+**Backend Expertise**  
+◉ RESTful APIs | ◉ Authentication (JWT/OAuth) | ◉ Database Design  
+◉ Serverless Functions | ◉ Web Sockets
 
 ## 🤝 Connect with Me
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/eklavya-nath-506818286/)])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eklavyanath1704@gmail.com)
-
-## 🌟 Fun Fact
-"First they ignore you, then they laugh at you, then they fight you, then you win." - Mahatma Gandhi
-
-![](https://komarev.com/ghpvc/?username=eklavya172004&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)

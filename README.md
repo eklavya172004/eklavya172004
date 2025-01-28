@@ -52,7 +52,6 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eklavya172004&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya172004&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
 

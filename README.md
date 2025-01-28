@@ -32,8 +32,8 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/eklavya-nath-506818286/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/eklavya-nath-506818286/)])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eklavyanath1704@gmail.com)
 
 ## 🌟 Fun Fact
 "First they ignore you, then they laugh at you, then they fight you, then you win." - Mahatma Gandhi

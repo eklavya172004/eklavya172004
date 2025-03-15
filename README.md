@@ -8,8 +8,8 @@
 
 - 💻 **Full-Stack Developer** with expertise in modern web technologies
 - 🚀 **2025 Goal**: Build 3 advanced-level resume-worthy projects
-- 🧠 Regular **LeetCode problem solver** ([Profile](https://leetcode.com/u/eklavya172004/))
-- 🌱 Currently learning **DevOps practices** and **Advanced Java Development**
+- 🧠 Solving **LeetCode problems daily** ([Profile](https://leetcode.com/u/eklavya172004/))
+- 🌱 Currently learning **Generative AI** and **Java Spring Boot Development**
 - 🛠️ **Core Skills**: `React` `Next.js` `TypeScript` `Node.js` `Java` `Python`
 
 ## 🛠️ Tech Stack
@@ -25,6 +25,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,19 +40,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**DevOps (Learning)**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
 ###  LeetCode 
+- **Daily LeetCode problem solver**
 - Curated collection of optimized solutions with detailed explanations
-- Regular updates with new problem solutions
 - [View Solutions](https://leetcode.com/u/eklavya172004/)
 
 ## 📈 GitHub Stats
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya172004&layout=compact&theme=vision-friendly-dark&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,8 +57,8 @@
 
 ## 🎯 2025 Focus Areas
 1. Build complex systems with Java Spring Boot
-2. Implement CI/CD pipelines for projects
-3. Become good at problem solving.
+2. Implement AI/ML features in my projects
+3. Solve **LeetCode problems daily** and improve problem-solving skills
 4. Create mobile-first applications with React Native
 5. Master system design and architecture patterns
 
